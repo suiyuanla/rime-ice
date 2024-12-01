@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.16.3
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Sun Dec  1 12:46:26 2024"
+  modified_time: "Sun Dec  1 13:24:28 2024"
   rime_version: 1.11.2
 patch:
-  "style/color_scheme": lost_temple
+  "style/color_scheme": mint_light_blue
