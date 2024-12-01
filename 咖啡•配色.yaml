@@ -93,6 +93,7 @@ preset_color_schemes:
   kfa01:
     name: 咖啡·蓝•◎
     author: 咖啡·资源来自森林集
+    dark_scheme: kfa02
     #悬浮窗
     text_color: 0xff19191a #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -125,6 +126,7 @@ preset_color_schemes:
   kfa02:
     name: 咖啡·蓝•◉
     author: 咖啡·资源来自森林集
+    light_scheme: kfa01
     text_color: 0xFFFFFFFF
     hilited_key_text_color: 0xFFFFFFFF
     candidate_back_color: kafei/001.png
@@ -150,6 +152,7 @@ preset_color_schemes:
   kfa03:
     name: 咖啡·简•◎
     author: 咖啡·资源来自森林集
+    dark_scheme: kfa04
     #悬浮窗
     text_color: 0xff191919 #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -190,6 +193,7 @@ preset_color_schemes:
   kfa04:
     name: 咖啡·简•◉
     author: 咖啡·资源来自森林集
+    light_scheme: kfa03
     #悬浮窗
     text_color: 0xFFFFFFFF #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -230,6 +234,7 @@ preset_color_schemes:
   kfa05:
     name: 咖啡·拟态蓝•◎
     author: 咖啡·资源来自森林集
+    dark_scheme: kfa06
     #悬浮窗
     text_color: 0xff5A7DA5 #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -260,6 +265,7 @@ preset_color_schemes:
   kfa06:
     name: 咖啡·拟态蓝•◉
     author: 咖啡·资源来自森林集
+    light_scheme: kfa05
     #悬浮窗
     text_color: 0xffADDAE0 #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -330,6 +336,7 @@ preset_color_schemes:
   kfa08:
     name: 咖啡·拟态黑•◎
     author: 咖啡·资源来自森林集
+    dark_scheme: kfa09
     #悬浮窗
     text_color: 0xff434C55 #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -370,6 +377,7 @@ preset_color_schemes:
   kfa09:
     name: 咖啡·拟态黑•◉
     author: 咖啡·资源来自森林集
+    light_scheme: kfa08
     #悬浮窗
     text_color: 0xffE8DBDC #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -405,6 +413,7 @@ preset_color_schemes:
   kfa10:
     name: 咖啡·方圆•◎
     author: 咖啡·资源来自森林集
+    dark_scheme: kfa11
     #悬浮窗
     text_color: 0xff48576D #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -436,6 +445,7 @@ preset_color_schemes:
   kfa11:
     name: 咖啡·方圆•◉
     author: 咖啡·资源来自森林集
+    light_scheme: kfa10
     #悬浮窗
     text_color: 0xffF2F2F2 #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -471,6 +481,7 @@ preset_color_schemes:
   kfa12:
     name: 咖啡·明·山水间•◎
     author: 咖啡·资源来自森林集
+    dark_scheme: kfa13
     #悬浮窗
     text_color: 0xff2C3441 #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -520,6 +531,7 @@ preset_color_schemes:
   kfa13:
     name: 咖啡·明·山水间•◉
     author: 咖啡·资源来自森林集
+    light_scheme: kfa12
     #悬浮窗
     text_color: 0xffecf3ff #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -569,6 +581,7 @@ preset_color_schemes:
   kfa14:
     name: 咖啡·清·深宫外•◎
     author: 咖啡·资源来自森林集
+    dark_scheme: kfa15
     #悬浮窗
     text_color: 0xfffff6e5 #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -628,6 +641,7 @@ preset_color_schemes:
   kfa15:
     name: 咖啡·清·深宫外•◉
     author: 咖啡·资源来自森林集
+    light_scheme: kfa14
     #悬浮窗
     text_color: 0xffFFF6E5 #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -683,6 +697,7 @@ preset_color_schemes:
   kfa16:
     name: 咖啡·元·书卷里•◎
     author: 咖啡·资源来自森林集
+    dark_scheme: kfa17
     #悬浮窗
     text_color: 0xffFFF4E5 #编码色
     hilited_back_color: 0x00 #高亮编码背景
@@ -736,6 +751,7 @@ preset_color_schemes:
   kfa17:
     name: 咖啡·元·书卷里•◉
     author: 咖啡·资源来自森林集
+    light_scheme: kfa16
     #悬浮窗
     text_color: 0xffF7E7D3 #编码色
     hilited_back_color: 0x00 #高亮编码背景

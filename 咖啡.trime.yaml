@@ -47,7 +47,7 @@ author: 咖啡 #作者资讯
 Custom: #以下参数自行调整，测试手机分辨率1080*2400。
   #候选栏及编码区
   A: &提示区高 25 #comment_height
-  B: &候选区高度 42 #candidate_view_height
+  B: &候选区高度 32 #candidate_view_height
   C: &候选字间距 8 #candidate_padding
   #主键盘
   ①: &主键高 65 #key_height
@@ -62,7 +62,7 @@ Custom: #以下参数自行调整，测试手机分辨率1080*2400。
   #字体
   ㊀: &编码区字号 16 #text_size
   ㊁: &悬浮窗候选项序号大小 16 #label_text_size
-  ㊂: &候选字号 20.5 #candidate_text_size
+  ㊂: &候选字号 18 #candidate_text_size
   ㊃: &候选注释字号 13 #候选注释字体大小
   ㊄: &键字号 16 #key_text_size
   ㊅: &符号字号 8 #symbol_text_size
@@ -87,6 +87,7 @@ Custom: #以下参数自行调整，测试手机分辨率1080*2400。
 style:
   keyboards: [.default, default, defaultmd, defaultjj, defaultzj, letter, number, menu, _edit_board, symbols, symbols_cy, symbols_en, symbols_cn, symbols_pair, symbols_math, symbols_shu, symbols_special, symbols_special2, symbols_sequence, symbols_sequence2]
   #键盘配置：自动键盘、盲打、无符号、助记、英文、数字、菜单、编辑、符号等
+  keyboard_height: 250
   auto_caps: false #自动句首大写:true|false|ascii
   background_dim_amount: 0.5 ##同文晢无作用，备用参数，暂无功能
   horizontal_gap: 0 #按键左右间距
@@ -110,8 +111,8 @@ style:
 
   layout: #懸浮窗口設置
     position: fixed #位置：left|right|left_up|right_up|fixed|bottom_left|bottom_right|top_left|top_right
-    min_length: 1 #候选窗口最小词长
-    max_length: 0 #超过字数则换行
+    min_length: 10 #候选窗口最小词长
+    max_length: 4 #超过字数则换行
     sticky_lines: 9 #固顶行数
     max_entries: 4 #候选窗口最大词条数
     all_phrases: false #所有满足条件的词语都显示在窗口
