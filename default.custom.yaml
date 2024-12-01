@@ -1,12 +1,17 @@
 customization:
   distribution_code_name: Weasel
-  distribution_version: 0.16.1
+  distribution_version: 0.16.3
   generator: "Rime::SwitcherSettings"
-  modified_time: "Sun Aug 25 10:57:03 2024"
+  modified_time: "Sun Dec  1 12:46:15 2024"
   rime_version: 1.11.2
 patch:
   schema_list:
-    - {schema: double_pinyin_flypy}
-  # 设置shift切换中英文时提交英文
-  "ascii_composer/switch_key/Shift_L": commit_code
-  "ascii_composer/switch_key/Shift_R": commit_code
+    - {schema: luna_pinyin}
+    - {schema: luna_pinyin_simp}
+    - {schema: luna_pinyin_fluency}
+    - {schema: bopomofo}
+    - {schema: bopomofo_tw}
+    - {schema: cangjie5}
+    - {schema: stroke}
+    - {schema: terra_pinyin}
+    - {schema: luna_quanpin}
