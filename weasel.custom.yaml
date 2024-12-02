@@ -8,7 +8,7 @@ patch:
   "style/color_scheme": psionics
   "style/comment_font_face": "Noto Sans SC"
   "style/comment_font_point": 11
-  "style/font_face": "Noto Color Emoji, Segoe UI Emoji, Noto Sans SC, Microsoft YaHei, SF Pro, Noto Color Emoji"
+  "style/font_face": "Segoe UI Emoji, Noto Sans SC, Microsoft YaHei, SF Pro, Noto Color Emoji"
   "style/font_point": 12
   "style/label_font_face": "Noto Sans SC"
   "style/label_font_point": 12
