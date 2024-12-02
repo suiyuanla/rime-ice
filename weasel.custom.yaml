@@ -6,15 +6,16 @@ customization:
   rime_version: 1.11.2
 patch:
   "style/color_scheme": psionics
-  # "style/comment_font_face": "新宋体"
+  "style/comment_font_face": "Noto Sans SC"
   "style/comment_font_point": 11
-  # "style/font_face": "Segoe UI Emoji, 新宋体, Microsoft YaHei, SF Pro, Noto Color Emoji"
+  "style/font_face": "Noto Color Emoji, Segoe UI Emoji, Noto Sans SC, Microsoft YaHei, SF Pro, Noto Color Emoji"
   "style/font_point": 12
-  # "style/label_font_face": "新宋体"
+  "style/label_font_face": "Noto Sans SC"
   "style/label_font_point": 12
   "style/layout/border_width": 2
-  "style/layout/corner_radius": 6
-  "style/layout/hilite_padding": 3
-  "style/layout/margin_x": 6
-  "style/layout/margin_y": 6
+  "style/layout/corner_radius": 4
+  "style/layout/round_corner": 4
+  "style/layout/hilite_padding": 4
+  "style/layout/margin_x": 8
+  "style/layout/margin_y": 8
   "style/layout/shadow_radius": 4
